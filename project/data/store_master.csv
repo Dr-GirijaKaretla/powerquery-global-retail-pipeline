@@ -1,0 +1,7 @@
+StoreID,StoreName,Country,State,Region,Manager
+ST001,Sydney Central,Australia,NSW,APAC,Laura
+ST002,Melbourne Hub,Australia,VIC,APAC,Sam
+ST003,New York Downtown,USA,NY,North America,David
+ST004,London West,UK,London,Europe,Sarah
+ST005,Toronto North,Canada,ON,North America,Michael
+

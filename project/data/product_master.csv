@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,SubCategory,BasePrice,LaunchDate
+P001,Wireless Mouse,Accessories,Input Devices,20,2021-05-01
+P002,USB Keyboard,Accessories,Input Devices,12,2020-11-15
+P003,27-inch Monitor,Electronics,Displays,400,2022-02-10
+P004,HDMI Cable,Accessories,Cables,5,2019-07-20
+P005,Gaming Laptop,Electronics,Computers,1100,2023-03-05
+
