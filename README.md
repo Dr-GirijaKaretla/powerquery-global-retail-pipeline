@@ -132,27 +132,27 @@ Code
                     │    returns     │
                     └────────────────┘
 📈 Key Skills Demonstrated
-Power Query / M Language
-Folder ingestion
-Append queries
-Merge queries (joins)
-Custom columns
-Conditional logic
-Error handling
-Data type enforcement
-Parameterized paths
-M code review and editing
-Data Modelling
-Fact + dimension structure
-Lookup relationships
-Currency normalization
-Target vs actual modelling
-Analytics Concepts
-Sales performance
-Return rate
-Profitability
-Regional analysis
-Trend analysis
+- Power Query / M Language
+- Folder ingestion
+- Append queries
+- Merge queries (joins)
+- Custom columns
+- Conditional logic
+- Error handling
+- Data type enforcement
+- Parameterized paths
+- M code review and editing
+- Data Modelling
+- Fact + dimension structure
+- Lookup relationships 
+- Currency normalization
+- Target vs actual modelling
+- Analytics Concepts
+- Sales performance
+- Return rate
+- Profitability
+- Regional analysis
+- Trend analysis
 
 🧪 Sample Insights Enabled by This Pipeline
 Which region is performing above/below target
