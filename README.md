@@ -38,6 +38,8 @@ project/
    Retail_Analytics.xlsx (or .pbix)
    M_Code.txt
    README.md
+   <img width="533" height="277" alt="image" src="https://github.com/user-attachments/assets/3e3db116-1758-4cdd-98ec-fd4ae55cd3d2" />
+
 ✔ Fact data
 Stored in a folder (sales_data) for folder ingestion.
 
